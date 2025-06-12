@@ -26,6 +26,6 @@
 ---
 
 ## Авторство
-Автор: Ім'я Прізвище  
-Email: example@email.com  
+Автор: Роман Бігун 
+Email: vt221_brv@student.ztu.edu.ua 
 Рік: 2025

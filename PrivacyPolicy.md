@@ -8,4 +8,4 @@
 - Ви можете запросити видалення ваших даних із системи в будь-який момент.
 
 ## Контакти
-Email: example@email.com
+Email: vt221_brv@student.ztu.edu.ua 
